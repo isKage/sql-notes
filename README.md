@@ -36,7 +36,7 @@ git clone https://github.com/isKage/sql-notes.git
 
 7 [聚合函数](./07聚合函数.md)
 
-8 待更新
+8 [子查询](./08子查询.md)
 
 ## 3 友链
 
