@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/code/08子查询.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/code/09创建和管理数据库和数据表.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/code/10增删改.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/code/11数据类型.sql" dialect="MySQL" />
   </component>
 </project>
