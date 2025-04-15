@@ -60,6 +60,9 @@ git clone https://github.com/isKage/sql-notes.git
 12. 约束
     - 笔记见 [note](./12约束.md)
     - 有关示例代码 `.sql` 文件见 [code](./code/12约束.sql)
+13. 视图
+    - 笔记见 [note](./13视图.md)
+    - 相关示例代码 `.sql` 文件见 [code](./code/13视图.sql)
 
 ## 3 友链
 
